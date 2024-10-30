@@ -1,0 +1,47 @@
+﻿@model List<BookStoreCRUD.Models.Book>
+
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h2>Lista de libros</h2>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Título</th>
+                    <th>Autor</th>
+                    <th>Género</th>
+                    <th>Precio</th>
+                    <th>Cantidad en Stock</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>@book.Id</td>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.Genre</td>
+                        <td>@book.Price</td>
+                        <td>@book.StockQuantity</td>
+                        <td>
+                            <a asp-controller= "Book" asp-action="Editar" asp-route-id="@book.Id" class="btn btn-primary">Editar</a>
+                            <a asp-controller="Book" asp-action="Eliminar" asp-route-id="@book.Id" onclick="return confirmar()" class="btn btn-danger">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a asp-action="Nuevo" class="btn btn-primary">Agregar nuevo libro</a>
+    </div>
+</div>
+@section Scripts{
+    <script>
+        function confirmar(){
+            confirm("Esta seguro de eliminar el libro?")
+        }
+    </script>
+}
