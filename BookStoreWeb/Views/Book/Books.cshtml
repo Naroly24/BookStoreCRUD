@@ -1,0 +1,45 @@
+﻿@model List<BookStoreCRUD.Web.Models.Book> 
+
+@{
+    ViewBag.Title = "Lista de Libros";
+}
+
+<h2>Lista de Libros</h2>
+
+<p>
+    <a asp-controller="Books" asp-action="Create" class="btn btn-primary">Agregar Nuevo Libro</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Género</th>
+            <th>Precio</th>
+            <th>Fecha de Publicación</th>
+            <th>Cantidad en Stock</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Genre</td>
+                <td>@book.Price.ToString("C")</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td>@book.StockQuantity</td>
+                <td>
+                    <a asp-controller="Books" asp-action="Edit" asp-route-id="@book.Id" class="btn btn-warning">Editar</a>
+                    <a asp-controller="Books" asp-action="Delete" asp-route-id="@book.Id" class="btn btn-danger">Eliminar</a>
+                    <a asp-controller="Books" asp-action="Details" asp-route-id="@book.Id" class="btn btn-info">Detalles</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,18 @@
+﻿@model BookStoreCRUD.Web.Models.Book
+
+@{
+    ViewBag.Title = "Eliminar Libro";
+}
+
+<h2>¿Estás seguro de que quieres eliminar este libro?</h2>
+
+<div>
+    <h4>@Model.Title</h4>
+    <p>@Model.Author</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

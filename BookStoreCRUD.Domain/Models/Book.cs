@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace BookStoreCRUD.Domain.Models
+namespace BookStoreCRUD.Domain.Models 
 {
     public class Book
     {
@@ -12,12 +8,11 @@ namespace BookStoreCRUD.Domain.Models
         public required string Title { get; set; }
         public required string Author { get; set; }
         public required string ISBN { get; set; }
-        [Range(0, double.MaxValue, ErrorMessage = "El precio debe ser un número positivo.")]
+        [Range(1, 1000, ErrorMessage = "Precio debe estar entre 1 y 1000")]
         public decimal Price { get; set; }
         public DateTime PublishedDate { get; set; }
         public required string Genre { get; set; }
-        [Range(0, int.MaxValue, ErrorMessage = "La cantidad en stock debe ser un número positivo.")]
+        [Range(1, 100, ErrorMessage = "Cantidad debe estar entre 1 y 100")]
         public int StockQuantity { get; set; }
     }
 }
-

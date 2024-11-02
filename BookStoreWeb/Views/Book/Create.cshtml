@@ -1,0 +1,36 @@
+﻿@model BookStoreCRUD.Web.Models.Book
+
+@{
+    ViewBag.Title = "Agregar Nuevo Libro";
+}
+
+<h2>Agregar Nuevo Libro</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Title">Título</label>
+        <input type="text" class="form-control" id="Title" name="Title" required />
+    </div>
+    <div class="form-group">
+        <label for="Author">Autor</label>
+        <input type="text" class="form-control" id="Author" name="Author" required />
+    </div>
+    <div class="form-group">
+        <label for="Genre">Género</label>
+        <input type="text" class="form-control" id="Genre" name="Genre" />
+    </div>
+    <div class="form-group">
+        <label for="Price">Precio</label>
+        <input type="number" class="form-control" id="Price" name="Price" required step="0.01" />
+    </div>
+    <div class="form-group">
+        <label for="PublishedDate">Fecha de Publicación</label>
+        <input type="date" class="form-control" id="PublishedDate" name="PublishedDate" required />
+    </div>
+    <div class="form-group">
+        <label for="StockQuantity">Cantidad en Stock</label>
+        <input type="number" class="form-control" id="StockQuantity" name="StockQuantity" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

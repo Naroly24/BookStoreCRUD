@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4kIWdC1XB4hBZTVwMHBV+VWJ9mV2tdgH4t2soEiLSQE=",
+  "Source": "BookStoreCRUD.API",
+  "BasePath": "_content/BookStoreCRUD.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

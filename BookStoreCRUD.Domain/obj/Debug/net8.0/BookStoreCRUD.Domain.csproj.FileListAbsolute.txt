@@ -1,0 +1,13 @@
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\bin\Debug\net8.0\BookStoreCRUD.Domain.deps.json
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\bin\Debug\net8.0\BookStoreCRUD.Domain.dll
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\bin\Debug\net8.0\BookStoreCRUD.Domain.pdb
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.AssemblyInfo.cs
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.sourcelink.json
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.dll
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\refint\BookStoreCRUD.Domain.dll
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\BookStoreCRUD.Domain.pdb
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD.Domain\obj\Debug\net8.0\ref\BookStoreCRUD.Domain.dll

@@ -3,104 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8CD198B-618C-4182-A5C4-61F07ACA05CD}|BookStoreCRUD.API\\BookStoreCRUD.API.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8CD198B-618C-4182-A5C4-61F07ACA05CD}|BookStoreCRUD.API\\BookStoreCRUD.API.csproj|solutionrelative:bookstorecrud.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstoreweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|solutionrelative:bookstoreweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CD198B-618C-4182-A5C4-61F07ACA05CD}|BookStoreCRUD.API\\BookStoreCRUD.API.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.api\\bookstorecrud.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A8CD198B-618C-4182-A5C4-61F07ACA05CD}|BookStoreCRUD.API\\BookStoreCRUD.API.csproj|solutionrelative:bookstorecrud.api\\bookstorecrud.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstoreweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|solutionrelative:bookstoreweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8CD198B-618C-4182-A5C4-61F07ACA05CD}|BookStoreCRUD.API\\BookStoreCRUD.API.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8CD198B-618C-4182-A5C4-61F07ACA05CD}|BookStoreCRUD.API\\BookStoreCRUD.API.csproj|solutionrelative:bookstorecrud.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstoreweb\\bookstoreweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|solutionrelative:bookstoreweb\\bookstoreweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|solutionrelative:bookstorecrud.domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstoreweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|solutionrelative:bookstoreweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstoreweb\\controllers\\bookscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|solutionrelative:bookstoreweb\\controllers\\bookscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstoreweb\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|solutionrelative:bookstoreweb\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstoreweb\\models\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7B9FD8-7BEA-4153-9441-89303123F826}|BookStoreWeb\\BookStoreWeb.csproj|solutionrelative:bookstoreweb\\models\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.domain\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|solutionrelative:bookstorecrud.domain\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.domain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|solutionrelative:bookstorecrud.domain\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.domain\\bookstorecrud.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|solutionrelative:bookstorecrud.domain\\bookstorecrud.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|solutionrelative:bookstorecrud.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\bookstorecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\bookstorecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\views\\book\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\views\\book\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\views\\book\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\views\\book\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\views\\book\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\views\\book\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\migrations\\20241030152902_primera migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\migrations\\20241030152902_primera migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50198EAB-EB09-418B-B765-AE12B62A2EF1}|BookStoreCRUD\\BookStoreCRUD.csproj|solutionrelative:bookstorecrud\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|c:\\users\\naroly\\documents\\bookstorecrud\\bookstorecrud\\bookstorecrud.domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E3FEB5-2368-46E1-81B0-AC07F1095D08}|BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj|solutionrelative:bookstorecrud.domain\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,317 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD.API\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "BookStoreCRUD.API\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:38:23.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.API\\Program.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.API\\Program.cs",
-              "RelativeToolTip": "BookStoreCRUD.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:35:49.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD.Domain\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\AppDBContext.cs",
-              "RelativeToolTip": "BookStoreCRUD.Domain\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:31:29.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD.Domain\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Models\\Book.cs",
-              "RelativeToolTip": "BookStoreCRUD.Domain\\Models\\Book.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:29:05.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookStoreCRUD.Domain",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj",
-              "RelativeDocumentMoniker": "BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj",
-              "RelativeToolTip": "BookStoreCRUD.Domain\\BookStoreCRUD.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-30T18:28:45.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookStoreCRUD.API",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.API\\BookStoreCRUD.API.csproj",
-              "RelativeDocumentMoniker": "BookStoreCRUD.API\\BookStoreCRUD.API.csproj",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.API\\BookStoreCRUD.API.csproj",
-              "RelativeToolTip": "BookStoreCRUD.API\\BookStoreCRUD.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-30T18:27:27.87Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookStoreWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookStoreWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T19:52:46.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Class1.cs",
-              "RelativeToolTip": "BookStoreCRUD.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Models\\ApiSettings.cs",
+              "RelativeDocumentMoniker": "BookStoreWeb\\Models\\ApiSettings.cs",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Models\\ApiSettings.cs",
+              "RelativeToolTip": "BookStoreWeb\\Models\\ApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:27:09.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T19:27:47.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Program.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Program.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoreWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Program.cs",
+              "RelativeToolTip": "BookStoreWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:20:00.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T12:41:04.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Controllers\\BooksControllers.cs",
+              "RelativeDocumentMoniker": "BookStoreWeb\\Controllers\\BooksControllers.cs",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Controllers\\BooksControllers.cs",
+              "RelativeToolTip": "BookStoreWeb\\Controllers\\BooksControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:34:22.369Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BookStoreCRUD.csproj",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.csproj",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\BookStoreCRUD.csproj",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.csproj",
-              "RelativeToolTip": "BookStoreCRUD\\BookStoreCRUD.csproj",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStoreCRUD.Domain\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Models\\Book.cs",
+              "RelativeToolTip": "BookStoreCRUD.Domain\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:00:09.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookStoreCRUD.Domain\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Services\\BookService.cs",
+              "RelativeToolTip": "BookStoreCRUD.Domain\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:58:57.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStoreWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\appsettings.json",
+              "RelativeToolTip": "BookStoreWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T12:40:32.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookStoreWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\BookStoreWeb.csproj",
+              "RelativeDocumentMoniker": "BookStoreWeb\\BookStoreWeb.csproj",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\BookStoreWeb.csproj",
+              "RelativeToolTip": "BookStoreWeb\\BookStoreWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-30T14:59:31.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T12:49:35.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookStoreWeb\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreWeb\\Services\\BookService.cs",
+              "RelativeToolTip": "BookStoreWeb\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:32:52.567Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BookStoreCRUD\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-30T17:50:19.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:47:32.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Lista.cshtml",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Views\\Book\\Lista.cshtml",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Views\\Book\\Lista.cshtml",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Views\\Book\\Lista.cshtml",
-              "RelativeToolTip": "BookStoreCRUD\\Views\\Book\\Lista.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAACVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T16:04:51.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Nuevo.cshtml",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Views\\Book\\Nuevo.cshtml",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Views\\Book\\Nuevo.cshtml",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Views\\Book\\Nuevo.cshtml",
-              "RelativeToolTip": "BookStoreCRUD\\Views\\Book\\Nuevo.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T16:18:09.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Controllers\\BookController.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Controllers\\BookController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA4wE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:37:07.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Views\\Book\\Editar.cshtml",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Views\\Book\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Views\\Book\\Editar.cshtml",
-              "RelativeToolTip": "BookStoreCRUD\\Views\\Book\\Editar.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T17:22:49.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Book.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:48:29.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20241030152902_Primera Migracion.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Migrations\\20241030152902_Primera Migracion.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Migrations\\20241030152902_Primera Migracion.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Migrations\\20241030152902_Primera Migracion.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Migrations\\20241030152902_Primera Migracion.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:29:02.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\appsettings.json",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\appsettings.json",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\appsettings.json",
-              "RelativeToolTip": "BookStoreCRUD\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-30T15:17:45.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Data\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:00:11.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Inventory.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Models\\Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "BookStoreCRUD.Domain\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD.Domain\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "BookStoreCRUD.Domain\\Data\\AppDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:56:23.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Order.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:54:17.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\OrderItem.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:53:57.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Customer.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:52:40.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Author.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:50:22.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "BookStoreCRUD\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Naroly\\Documents\\BookStoreCRUD\\BookStoreCRUD\\BookStoreCRUD\\Models\\Genre.cs",
-              "RelativeToolTip": "BookStoreCRUD\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:51:12.963Z"
+              "WhenOpened": "2024-11-02T13:01:36.803Z"
             }
           ]
         }

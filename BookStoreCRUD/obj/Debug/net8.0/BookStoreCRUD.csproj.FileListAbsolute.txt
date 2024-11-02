@@ -124,6 +124,7 @@ C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\ne
 C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\net8.0\BookStoreCRUD.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\net8.0\BookStoreCRUD.RazorAssemblyInfo.cache
 C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\net8.0\BookStoreCRUD.RazorAssemblyInfo.cs
+C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\net8.0\BookStoreCRUD.sourcelink.json
 C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Naroly\Documents\BookStoreCRUD\BookStoreCRUD\BookStoreCRUD\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreCRUD.Microsoft.AspNetCore.StaticWebAssets.props
